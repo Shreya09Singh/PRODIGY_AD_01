@@ -42,4 +42,4 @@ lib/screens/: Contains UI pages for the application.
 lib/provider/CalculatorProvider.dart: Manages the state of the calculator using the provider package.
 lib/constants/: Holds constant values such as colors used throughout the app.
 lib/widgets/: Contains reusable UI components, including buttons.
-![calculator_App](https://github.com/user-attachments/assets/c91343d4-473a-48f5-8269-4f87f21acec4)
+![calculator_App](https://github.com/user-attachments/assets/cc9ed4b7-84f2-4e5a-ae07-b185b381f2d3)
